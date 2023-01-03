@@ -1,2 +1,2 @@
 # Capstone-Project
-This capstone project analyses GitHub developer programming technology. 
+This IBM capstone project analyses data from Github and the technology used among developers.
